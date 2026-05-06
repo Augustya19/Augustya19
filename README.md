@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi 👋, I'm Augustya
+# Hi, I'm Augustya
 
 **Builder PM | CS Graduate | Shipping Products at the Intersection of Code & Strategy**
 
