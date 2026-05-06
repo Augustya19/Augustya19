@@ -39,6 +39,7 @@ Gemini API • Claude API • Scikit-learn • Pandas • NumPy
 | [AdmitSync](https://github.com/Augustya19) | Indian entrance exam deadline aggregator with Gemini AI for data freshness |
 | [CareerGPS](https://github.com/Augustya19) | Career transition simulator built with React, TypeScript & Flask |
 | [ELI5](https://github.com/Augustya19) | Simplifies complex topics into plain language using AI |
+| [SHUSH](https://github.com/Augustya19) | Women's health & hygiene awareness platform |
 
 ---
 
